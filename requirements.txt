@@ -1,2 +1,9 @@
-pandas numpy scikit-learn matplotlib seaborn geopandas shapely scipy
+pandas 
+numpy
+scikit-learn
+matplotlib
+seaborn
+geopandas
+shapely
+scipy
 jupyter
